@@ -1,4 +1,8 @@
 public class Persona {
-    int age;
-    String name;
+    public static void main(String[] args) {
+        int age;
+        String name="Ana";
+
+        System.out.println(name);
+    }
 }
